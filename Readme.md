@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Дмитрий  Дьяченко](https://up.htmlacademy.ru/javascript/31/user/632523).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий  Беллавин](https://htmlacademy.ru/profile/bellavin).
 
 ---
 
