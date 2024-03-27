@@ -21,8 +21,8 @@ const extractNumbers = (string) => {
 
   string = string.toString();
 
-  for (let i = 0; i <= string.legth - 1; i++) {
-    if (Number.isNaN(parseInt(string[i], 10)) === false) {
+  for (let i = 0; i < string.length; i++) {
+    if (string[i] >= '0' && string[i] <= '9') {
       result += string[i];
     }
   }
