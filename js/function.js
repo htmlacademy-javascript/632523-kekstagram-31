@@ -26,8 +26,7 @@ const extractNumbers = (string) => {
       result += string[i];
     }
   }
-
-  return result === '' ? NaN : Number(result);
+  return result;
 };
 
 extractNumbers();
